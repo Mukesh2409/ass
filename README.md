@@ -195,4 +195,4 @@ For support and questions:
 - [TipTap](https://tiptap.dev/) for the rich text editor
 - [Mistral AI](https://mistral.ai/) for AI capabilities
 - [Radix UI](https://www.radix-ui.com/) for accessible components
-- [Tailwind CSS](https://tailwindcss.com/) for styling
+- [Tailwind CSS](https://tailwindcss.com/) for styling# ass_deployment
